@@ -1,5 +1,5 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 3,
     "version": "0.0.1",
     "name": "Love Language",
     "description": "Extensão para aprendizado de idiomas",
@@ -7,7 +7,7 @@
         "Thiago Feitosa Martins",
         "Cauê Mota"
     ],
-    "browser_action": {
+    "action": {
         "default_title": "Love Language",
         "default_popup": "index.html"
     }

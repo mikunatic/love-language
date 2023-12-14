@@ -7,7 +7,13 @@
     <title>Love Language</title>
 </head>
 <body>
-    <p>Olá mundo!</p>
-		<script src="./script.js"></script>
+    <form action="/script.js">
+        -<label for="fname">Insira a palavra a ser traduzida</label><br>
+        <input type="text" id="word" name="word"><br>
+        <label for="lname">Tradução</label><br>
+        <input type="text" id="translation" name="translation" readonly><br><br>
+        <input type="submit" value="Submit">
+    </form> 
+    <script src="./script.js"></script>
 </body>
 </html>
