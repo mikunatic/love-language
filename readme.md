@@ -1,3 +1,3 @@
 ## Love Language
 
-A simple extension, so you can learn and translate things on the web!
+A simple extension for you to learn and translate things on the web!
