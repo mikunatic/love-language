@@ -1,0 +1,11 @@
+.top{
+    justify-content: space-between; display: flex;
+}
+
+#word {
+    width: 100%;
+}
+
+.form{
+    width: 100%;
+}
